@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Picture Dekh Raha!!",
+  "version": "1.0.0",
+  "description": "Track your study hours, goals, streaks, and subject-wise progress.",
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
